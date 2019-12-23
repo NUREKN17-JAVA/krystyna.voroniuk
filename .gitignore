@@ -1,0 +1,27 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+out/
+krystyna.voroniuk.iml
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+pom.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Target, bin and settings
+target*
+bin*
+.settings*
+.classpath
+.project
+.idea
+.iml
+.txt
